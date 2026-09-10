@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2035865,
       "digest": null,
-      "download_count": 42,
+      "download_count": 43,
       "created_at": "2025-05-08T12:40:46Z",
       "updated_at": "2025-05-08T12:40:47Z",
       "browser_download_url": "https://github.com/snipt/snipt/releases/download/v0.1.0/snipt-v0.1.0-linux-x86_64.tar.gz"
