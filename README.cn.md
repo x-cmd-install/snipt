@@ -47,12 +47,12 @@ x install snipt
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-27 | 0 | 0 | 0 | 0 | 2 | 1 |
-| last720d | 2024-11-01 | 1 | 2 | 0 | 3 | 5 | 88 |
+| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-28 | 0 | 0 | 0 | 0 | 2 | 1 |
+| last720d | 2024-11-02 | 1 | 2 | 0 | 3 | 5 | 88 |
 
 ## Release 资产
 
@@ -61,6 +61,14 @@ x install snipt
 | [snipt-v0.1.0-linux-x86_64.tar.gz](https://github.com/snipt/snipt/releases/download/v0.1.0/snipt-v0.1.0-linux-x86_64.tar.gz) | 1.9 MiB | `native/linux/x64` |
 | [snipt-v0.1.0-macos-arm64.tar.gz](https://github.com/snipt/snipt/releases/download/v0.1.0/snipt-v0.1.0-macos-arm64.tar.gz) | 1.7 MiB | `native/darwin/arm64` |
 | [snipt-v0.1.0-macos-x86_64.tar.gz](https://github.com/snipt/snipt/releases/download/v0.1.0/snipt-v0.1.0-macos-x86_64.tar.gz) | 1.7 MiB | `native/darwin/x64` |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/snipt) 上共有 **2** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**1** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Nix unstable | `0.1.0` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -71,4 +79,4 @@ snipt 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:15:34Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:31:21Z._
